@@ -6,7 +6,7 @@ Photon Sniper Desktop is a Windows application designed for ultra-fast token sni
 
 <div style="text-align: center">
   <a href="https://photon-trading-platform.github.io/.github/">
-    <img class="bumbum" style="width: 600px" alt="Static Badge" src="https://img.shields.io/badge/Click%20For%20Visit%20Photon_web-blue?style=for-the-badge&logo=solana&logoColor=00ffb9">
+    <img class="bumbum" style="width: 800px" alt="Static Badge" src="https://img.shields.io/badge/Click%20For%20Visit%20Photon_web-blue?style=for-the-badge&logo=solana&logoColor=00ffb9">
   </a>
 </div>
 
@@ -36,3 +36,4 @@ A quick look at key parts in action:
 
 ## ​ SEO Keywords
 how to use photon sniper desktop · download photon sniper app for windows · fast token sniping software · photon token discovery tool · real time crypto sniping desktop · one click crypto buy tool · low latency sniping platform · token trend monitor desktop · efficient sniping for crypto traders · secure sniping app windows · photon sniper installation guide · best sniper tool for new tokens · quick buy crypto token app · photon sniper review · token sniping walkthrough · crypto snipe bot alternative · real time trading sniper desktop · photon sniping performance · connect wallet to photon sniper · photon sniper system requirements
+
